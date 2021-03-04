@@ -1,0 +1,1 @@
+# Latvian-food-NER-corpus
